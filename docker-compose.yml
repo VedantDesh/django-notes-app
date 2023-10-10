@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : vedantdeshmukh78/django-app-image:tagname
+     image : vedantdeshmukh78/django-app-image:latest
      ports :
          - "8000:8000"
